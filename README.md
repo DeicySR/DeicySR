@@ -6,7 +6,7 @@
 :oncoming_automobile: **Fan de los autos, carreras y simuladores**
 :family: **¡El papá más feliz del mundo!**
 
-###⚡Actividad reciente
+### ⚡Actividad reciente
 <!--START_SECTION: activity-->
 <!--END_SECTION: activity-->
 
